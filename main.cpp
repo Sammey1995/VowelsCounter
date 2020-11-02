@@ -9,7 +9,9 @@ using namespace std;
     bool AnotherLetter();
 //  =====================
 
-//  ============
+//  ===========================
+//  This is the Function main()
+//  ===========================
     int main() {
 
         char letter;
