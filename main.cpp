@@ -35,7 +35,8 @@ using namespace std;
         cout << "Thank you for using my program, good bye..." << endl;
 
     return 0;
-    }
+    } // Function main()
+//  ====================
 
 
 //  ===========================
@@ -47,8 +48,8 @@ using namespace std;
     return true;
         else
     return false;
-    } // Functioon IsVowel()
-//  ========================
+    } // Function IsVowel()
+//  =======================
     
 //  ======================
     bool AnotherLetter() {
@@ -64,8 +65,8 @@ using namespace std;
             return true;
         else
             return false;
-    } // Functioon AnotherLetter()
-//  ==============================
+    } // Function AnotherLetter()
+//  =============================
 
 //  ========================
     bool AnotherSequence() {
