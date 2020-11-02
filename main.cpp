@@ -9,7 +9,6 @@ using namespace std;
     bool AnotherLetter();
 //  =====================
 
-
 //  ============
     int main() {
 
@@ -51,7 +50,7 @@ using namespace std;
     } // Functioon IsVowel()
 //  ========================
     
-//  ================
+//  ======================
     bool AnotherLetter() {
 
         char goAgain;
@@ -65,10 +64,10 @@ using namespace std;
             return true;
         else
             return false;
-    } // Functioon IsVowel()
-//  ========================
+    } // Functioon AnotherLetter()
+//  ==============================
 
-//  ======================
+//  ========================
     bool AnotherSequence() {
 
         char desire;
@@ -84,5 +83,5 @@ using namespace std;
             return true;
         else
             return false;
-    } // Functioon AnotherLetter()
-//  ==============================
+    } // Function AnotherSequence()
+//  ===============================
